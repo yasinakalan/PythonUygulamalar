@@ -1,2 +1,5 @@
-sira,dosyaAdi,kisaAciklama
-1,transformasyonMatrisi,3D dönüşümleri yapmak için gerekli olan fonksiyonlar yazıldı.
+sira,dizinAdi,dosyaAdi,kisaAciklama
+1,transformasyonMatrisi,transformasyonMatrisi.py,3D dönüşümleri yapmak için gerekli olan fonksiyonlar yazıldı.
+2,cesitliUygulamalar,olasilikHesabiBasit.ipynb,Basit bir olasılık durumları listesi oluşturuldu.
+3,cesitliUygulamalar,korelasyonHesabi.ipynb,İki liste arasındaki korelasyon hesaplandı.
+4,cesitliUygulamalar,iciceSozluklerinListeDonusumu.ipynb, İç içe sözlüklerin bir liste içerisine derinliğe göre yazıldı.
